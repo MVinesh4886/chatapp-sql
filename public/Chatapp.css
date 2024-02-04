@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(164, 238, 141);
+}
+#groupName {
+  color: rgb(230, 15, 15);
+}
+
+#groupMembers {
+  margin: 5px;
+}
+
+#addUser {
+  background-color: rgb(237, 237, 243);
+
+  margin: 5px;
+}
+
+#file-input {
+  margin: 5px;
+}
+
+#groupChat {
+  margin: 5px;
+}
+
+#sendButton {
+  margin: 5px;
+}
